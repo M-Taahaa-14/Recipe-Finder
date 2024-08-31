@@ -17,3 +17,15 @@ A recipe finder application using the Spoonacular API to search and manage recip
 1. Clone the repository:
    ```bash
    git clone https://github.com/M-Taahaa-14/Recipe-Finder.git
+
+2. Navigate to the Project Repository
+   ```bash
+   cd Recipe-App
+   
+3. Install dependencies
+   ```bash
+   flutter pub get
+
+4. Run the app
+   ```bash
+   flutter run
