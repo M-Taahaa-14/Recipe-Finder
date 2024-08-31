@@ -1,16 +1,19 @@
-# recipe_app
+# Recipe_Masala
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## 3. Recipe Finder App
 
-A few resources to get you started if this is your first Flutter project:
+A recipe finder application using the Spoonacular API to search and manage recipes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Features:
+- **Search Recipes**: Search for any recipe by name or filter.
+- **Favorites**: Add recipes to favorites to view them later.
+- **Remove Favorites**: Remove recipes from favorites once you have cooked.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/M-Taahaa-14/Recipe-Finder.git
